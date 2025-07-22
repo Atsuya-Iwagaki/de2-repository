@@ -1,0 +1,15 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+<fullName>aitest8__c</fullName>
+<label>aiテスト⑧</label>
+<type>Picklist</type>
+<valueSet>
+  <valueSetDefinition>
+    <sorted>false</sorted>
+    <value><fullName>A</fullName><default>false</default></value>
+    <value><fullName>B</fullName><default>false</default></value>
+    <value><fullName>C</fullName><default>false</default></value>
+    <value><fullName>D</fullName><default>false</default></value>
+    <value><fullName>E</fullName><default>false</default></value>
+  </valueSetDefinition>
+</valueSet>
+</CustomField>

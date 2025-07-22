@@ -1,0 +1,15 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+<fullName>aitest9__c</fullName>
+<label>aiテスト⑨</label>
+<type>MultiselectPicklist</type>
+<visibleLines>4</visibleLines>
+<valueSet>
+  <valueSetDefinition>
+    <sorted>false</sorted>
+    <value><fullName>とら</fullName><default>false</default></value>
+    <value><fullName>ライオン</fullName><default>false</default></value>
+    <value><fullName>ニワトリ</fullName><default>false</default></value>
+    <value><fullName>ワニ</fullName><default>false</default></value>
+  </valueSetDefinition>
+</valueSet>
+</CustomField>

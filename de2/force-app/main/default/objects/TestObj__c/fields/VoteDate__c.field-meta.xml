@@ -1,0 +1,5 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>VoteDate__c</fullName>
+  <label>投票日</label>
+  <type>Date</type>
+</CustomField>

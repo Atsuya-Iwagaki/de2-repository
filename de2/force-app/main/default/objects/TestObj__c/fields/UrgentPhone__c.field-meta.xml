@@ -1,0 +1,5 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>UrgentPhone__c</fullName>
+  <label>緊急連絡先</label>
+  <type>Phone</type>
+</CustomField>

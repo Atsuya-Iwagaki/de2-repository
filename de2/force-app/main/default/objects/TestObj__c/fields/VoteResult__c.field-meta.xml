@@ -1,0 +1,26 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>VoteResult__c</fullName>
+  <label>投票結果</label>
+  <type>Picklist</type>
+  <valueSet>
+    <valueSetDefinition>
+      <value>
+        <fullName>承認</fullName>
+        <label>承認</label>
+        <default>false</default>
+      </value>
+      <value>
+        <fullName>否認</fullName>
+        <label>否認</label>
+        <default>false</default>
+      </value>
+      <value>
+        <fullName>白票</fullName>
+        <label>白票</label>
+        <default>false</default>
+      </value>
+      <sorted>false</sorted>
+    </valueSetDefinition>
+    <restricted>true</restricted>
+  </valueSet>
+</CustomField>

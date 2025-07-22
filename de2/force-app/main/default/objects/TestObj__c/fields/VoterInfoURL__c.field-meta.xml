@@ -1,0 +1,6 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>VoterInfoURL__c</fullName>
+  <label>有権者情報掲載サイト</label>
+  <type>Url</type>
+  <inlineHelpText>公開されている情報がある場合はURLを入力</inlineHelpText>
+</CustomField>

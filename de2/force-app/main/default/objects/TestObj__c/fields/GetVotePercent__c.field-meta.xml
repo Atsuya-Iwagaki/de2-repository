@@ -1,0 +1,7 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>GetVotePercent__c</fullName>
+  <label>得票率</label>
+  <type>Percent</type>
+  <precision>5</precision>
+  <scale>2</scale>
+</CustomField>

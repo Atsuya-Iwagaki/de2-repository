@@ -1,0 +1,6 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+<fullName>InvoiceStaffName__c</fullName>
+<label>請求担当者名</label>
+<type>Text</type>
+<length>100</length>
+</CustomField>

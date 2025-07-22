@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>aitest_10__c</fullName>
+  <label>aiテスト⑩</label>
+  <type>Text</type>
+  <length>255</length>
+  <externalId>true</externalId>
+  <unique>true</unique>
+  <description>これはテスト説明になります。</description>
+  <inlineHelpText>これはヘルプテキストです。
+エクセルにて改行しています。</inlineHelpText>
+</CustomField>

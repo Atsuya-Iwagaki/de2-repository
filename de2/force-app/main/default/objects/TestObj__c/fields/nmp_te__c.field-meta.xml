@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>nmp_te__c</fullName>
+  <label>NmpTE</label>
+  <type>Lookup</type>
+  <referenceTo>Lead</referenceTo>
+  <relationshipLabel>リード</relationshipLabel>
+  <relationshipName>Leads</relationshipName>
+  <writeRequiresMasterRead>true</writeRequiresMasterRead>
+</CustomField>

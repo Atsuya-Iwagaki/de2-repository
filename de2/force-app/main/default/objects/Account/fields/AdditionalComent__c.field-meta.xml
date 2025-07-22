@@ -1,0 +1,6 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+<fullName>AdditionalComent__c</fullName>
+<label>補足説明</label>
+<type>Text</type>
+<length>100</length>
+</CustomField>

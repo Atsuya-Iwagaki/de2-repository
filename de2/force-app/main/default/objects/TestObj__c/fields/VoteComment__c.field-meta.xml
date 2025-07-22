@@ -1,0 +1,7 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>VoteComment__c</fullName>
+  <label>投票コメント</label>
+  <type>LongTextArea</type>
+  <length>5000</length>
+  <visibleLines>6</visibleLines>
+</CustomField>

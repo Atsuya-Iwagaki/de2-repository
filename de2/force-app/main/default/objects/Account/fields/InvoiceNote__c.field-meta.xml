@@ -1,0 +1,7 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+<fullName>InvoiceNote__c</fullName>
+<label>請求備考</label>
+<type>LongTextArea</type>
+<length>10000</length>
+<visibleLines>5</visibleLines>
+</CustomField>
